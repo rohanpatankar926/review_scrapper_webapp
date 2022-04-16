@@ -2,3 +2,4 @@ pip-chill
 bs4
 requests
 Flask
+gunicorn
